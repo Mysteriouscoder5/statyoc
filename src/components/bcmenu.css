@@ -1,0 +1,8 @@
+@media screen and (min-width: 850px) {
+  .ccmenu,
+  .bcmenu,
+  .pcmenu {
+    padding-right: 5.5rem !important;
+    padding-left: 5.5rem !important;
+  }
+}
