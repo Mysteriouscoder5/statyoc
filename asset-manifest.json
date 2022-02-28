@@ -1,30 +1,30 @@
 {
   "files": {
-    "main.css": "/statyoc/static/css/main.bd5957e4.css",
-    "main.js": "/statyoc/static/js/main.903a58a2.js",
-    "static/js/787.3b6dcac5.chunk.js": "/statyoc/static/js/787.3b6dcac5.chunk.js",
-    "static/media/carousalbg.jpg": "/statyoc/static/media/carousalbg.b156521222b099b580d7.jpg",
-    "static/media/logo12.png": "/statyoc/static/media/logo12.ef25a480e3e515e7a0f7.png",
-    "static/media/cake6.jpg": "/statyoc/static/media/cake6.9c0f0a94910682ed2582.jpg",
-    "static/media/cake2.jpg": "/statyoc/static/media/cake2.67f1cdaa9961e07badec.jpg",
-    "static/media/cake7.jpg": "/statyoc/static/media/cake7.a54090a4237417064083.jpg",
-    "static/media/cake4.jpg": "/statyoc/static/media/cake4.a3a0ea6c920ac658dcd9.jpg",
-    "static/media/cake1.jpg": "/statyoc/static/media/cake1.0ee66efdba5b3ae50faa.jpg",
-    "static/media/cake8.jpg": "/statyoc/static/media/cake8.d722d33c27bdd16aea5f.jpg",
-    "static/media/logo.png": "/statyoc/static/media/logo.d19de325e2382c500742.png",
-    "static/media/cakez3.jpg": "/statyoc/static/media/cakez3.8008c49295911090600d.jpg",
-    "static/media/cake3.jpg": "/statyoc/static/media/cake3.85caa12423719c9d4c6a.jpg",
-    "static/media/cake5.jpg": "/statyoc/static/media/cake5.e6ffd399a27e4c406275.jpg",
-    "static/media/cakez1.jpg": "/statyoc/static/media/cakez1.12c146009242c7ffbaee.jpg",
-    "static/media/cakez2.jpg": "/statyoc/static/media/cakez2.e48be27bb424c2200b96.jpg",
-    "static/media/cakez4.jpg": "/statyoc/static/media/cakez4.45f85863edc65b0adf52.jpg",
-    "index.html": "/statyoc/index.html",
-    "main.bd5957e4.css.map": "/statyoc/static/css/main.bd5957e4.css.map",
-    "main.903a58a2.js.map": "/statyoc/static/js/main.903a58a2.js.map",
-    "787.3b6dcac5.chunk.js.map": "/statyoc/static/js/787.3b6dcac5.chunk.js.map"
+    "main.css": "/static/css/main.bd5957e4.css",
+    "main.js": "/static/js/main.2766fe3d.js",
+    "static/js/787.3b6dcac5.chunk.js": "/static/js/787.3b6dcac5.chunk.js",
+    "static/media/carousalbg.jpg": "/static/media/carousalbg.b156521222b099b580d7.jpg",
+    "static/media/logo12.png": "/static/media/logo12.ef25a480e3e515e7a0f7.png",
+    "static/media/cake6.jpg": "/static/media/cake6.9c0f0a94910682ed2582.jpg",
+    "static/media/cake2.jpg": "/static/media/cake2.67f1cdaa9961e07badec.jpg",
+    "static/media/cake7.jpg": "/static/media/cake7.a54090a4237417064083.jpg",
+    "static/media/cake4.jpg": "/static/media/cake4.a3a0ea6c920ac658dcd9.jpg",
+    "static/media/cake1.jpg": "/static/media/cake1.0ee66efdba5b3ae50faa.jpg",
+    "static/media/cake8.jpg": "/static/media/cake8.d722d33c27bdd16aea5f.jpg",
+    "static/media/logo.png": "/static/media/logo.d19de325e2382c500742.png",
+    "static/media/cakez3.jpg": "/static/media/cakez3.8008c49295911090600d.jpg",
+    "static/media/cake3.jpg": "/static/media/cake3.85caa12423719c9d4c6a.jpg",
+    "static/media/cake5.jpg": "/static/media/cake5.e6ffd399a27e4c406275.jpg",
+    "static/media/cakez1.jpg": "/static/media/cakez1.12c146009242c7ffbaee.jpg",
+    "static/media/cakez2.jpg": "/static/media/cakez2.e48be27bb424c2200b96.jpg",
+    "static/media/cakez4.jpg": "/static/media/cakez4.45f85863edc65b0adf52.jpg",
+    "index.html": "/index.html",
+    "main.bd5957e4.css.map": "/static/css/main.bd5957e4.css.map",
+    "main.2766fe3d.js.map": "/static/js/main.2766fe3d.js.map",
+    "787.3b6dcac5.chunk.js.map": "/static/js/787.3b6dcac5.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.bd5957e4.css",
-    "static/js/main.903a58a2.js"
+    "static/js/main.2766fe3d.js"
   ]
 }
